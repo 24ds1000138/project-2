@@ -1,0 +1,28 @@
+# Web framework
+fastapi
+uvicorn
+starlette
+pydantic
+
+# LLM / Agent framework
+langchain
+langchain-experimental
+
+# HTTP & web scraping
+requests
+beautifulsoup4
+lxml
+
+# Data processing
+pandas
+numpy
+openpyxl
+xlrd
+pyarrow
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+python-multipart
